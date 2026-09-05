@@ -1,0 +1,8 @@
+#0;are;2;jagtap.txt;1;j.txt;1;#
+#1;bro;1;jagtap.txt;1;#
+#6;gajanan;1;j.txt;1;#
+#7;hello;2;jagtap.txt;1;j.txt;2;#
+#7;how;2;jagtap.txt;1;j.txt;1;#
+#9;jagtap;1;jagtap.txt;1;#
+#18;shubham;1;jagtap.txt;1;#
+#24;you;2;jagtap.txt;1;j.txt;1;#
